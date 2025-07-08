@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Prabjot Singh
 
-<!--
-**Prabjot2005/Prabjot2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 About Me:
+I am a second-year computer science student at NYIT, passionate about software development, problem-solving, and creating innovative solutions through code.
 
-Here are some ideas to get you started:
+## 🔗 🚀 What I'm Up To
+- 🐍 Taking a deep dive into Python and mastering its fundamentals
+- 🗄️ Learning database management with PostgreSQL and MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabjot-singh1/)
+
+## 💻 Tech Stack:
+
+**Languages:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Developer Tools:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Libraries/Frameworks:**
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
