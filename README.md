@@ -4,8 +4,7 @@
 I am a second-year computer science student at NYIT, passionate about software development, problem-solving, and creating innovative solutions through code.
 
 ## 🔗 🚀 What I'm Up To
-- 🐍 Taking a deep dive into Python and mastering its fundamentals
-- 🗄️ Learning database management with PostgreSQL and MySQL
+- 🐍 Taking a deep dive into Python
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabjot-singh1/)
