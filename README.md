@@ -5,6 +5,7 @@ I am a second-year computer science student at NYIT, passionate about software d
 
 ## 🔗 🚀 What I'm Up To
 - 🐍 Taking a deep dive into Python
+- 🧩 Conquering data structures and algorithms
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabjot-singh1/)
