@@ -1,7 +1,7 @@
 # Hi 👋 I'm Prabjot Singh
 
 ## 🔍 About Me:
-I am a second-year computer science student at NYIT, passionate about software development, problem-solving, and creating innovative solutions through code.
+I am a third-year computer science student at NYIT, passionate about software development, problem-solving, and creating innovative solutions through code.
 
 ## 🔗 🚀 What I'm Up To
 - 🐍 Taking a deep dive into Python
