@@ -4,7 +4,6 @@
 I am a third-year computer science student at NYIT, passionate about software development, problem-solving, and creating innovative solutions through code.
 
 ## 🔗 🚀 What I'm Up To
-- 🧠 Working on AI Research Agent Project
 - 🧩 Conquering data structures and algorithms
 
 ## 🌐 Connect with me:
