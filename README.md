@@ -6,7 +6,7 @@ I am a third-year computer science student at NYIT, passionate about software de
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabjot-singh1/)
 
-## 💻 Tech Stack:
+## 💻 Technical Skills:
 
 **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
