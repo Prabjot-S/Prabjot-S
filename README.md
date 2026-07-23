@@ -30,17 +30,16 @@ I build practical software and turn ideas into clean, useful products.
   alt="Python, Java, JavaScript, HTML and CSS"
 />
 
+### Frameworks & Technologies
+
+<img
+  src="https://skillicons.dev/icons?i=fastapi,react,nodejs&theme=light"
+  alt="FastAPI, React and Node.js"
+/>
+
 ### Databases & Backend
 
 <img
   src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=light"
   alt="PostgreSQL, MySQL and Supabase"
 />
-  <img src="https://cdn.simpleicons.org/supabase" height="34" alt="Supabase" title="Supabase" />
-</p>
-
-### Development
-
-<p>
-  <img src="https://cdn.simpleicons.org/jupyter" height="34" alt="Jupyter" title="Jupyter" />
-</p>
