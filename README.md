@@ -11,7 +11,7 @@ I build practical software and turn ideas into clean, useful products
 
 ## Connect
 
-<a href="(https://www.linkedin.com/in/prabjot-singh1?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">
+<a href="(https://www.linkedin.com/in/prabjot-singh1/)">
   <img
     src="https://skillicons.dev/icons?i=linkedin&theme=light"
     height="45"
