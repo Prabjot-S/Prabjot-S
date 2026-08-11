@@ -5,18 +5,14 @@
   alt="Typing introduction"
 />
 
-I build practical software and turn ideas into clean, useful products
+I build practical software and turn ideas into clean, useful products.
 
 ---
 
 ## Connect
 
 <a href="https://www.linkedin.com/in/prabjot-singh1/">
-  <img
-    src="https://skillicons.dev/icons?i=linkedin&theme=light"
-    height="45"
-    alt="LinkedIn"
-  />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="45" alt="LinkedIn" />
 </a>
 
 ---
@@ -25,21 +21,20 @@ I build practical software and turn ideas into clean, useful products
 
 ### Languages
 
-<img
-  src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=light"
-  alt="Python, Java, JavaScript, HTML and CSS"
-/>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=py&theme=light" height="45" alt="Python" /></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=java&theme=light" height="45" alt="Java" /></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=js&theme=light" height="45" alt="JavaScript" /></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html&theme=light" height="45" alt="HTML" /></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=css&theme=light" height="45" alt="CSS" /></a>
 
 ### Frameworks & Technologies
 
-<img
-  src="https://skillicons.dev/icons?i=fastapi,react,nodejs&theme=light"
-  alt="FastAPI, React and Node.js"
-/>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=fastapi&theme=light" height="45" alt="FastAPI" /></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=react&theme=light" height="45" alt="React" /></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="45" alt="Node.js" /></a>
 
 ### Databases & Backend
 
-<img
-  src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=light"
-  alt="PostgreSQL, MySQL and Supabase"
-/>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=postgres&theme=light" height="45" alt="PostgreSQL" /></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=mysql&theme=light" height="45" alt="MySQL" /></a>
+<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=supabase&theme=light" height="45" alt="Supabase" /></a>
