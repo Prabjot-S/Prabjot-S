@@ -5,7 +5,9 @@
   alt="Typing introduction"
 />
 
-I build practical software and turn ideas into clean, useful products.
+I build practical software and turn ideas into clean, useful products. 
+
+Currently interning at Optimum!
 
 ---
 
